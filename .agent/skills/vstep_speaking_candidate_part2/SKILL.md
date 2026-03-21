@@ -11,7 +11,8 @@ Mỗi khi Giám khảo đưa ra tình huống, bạn **PHẢI** luôn luôn cung
 2. **Cung cấp 2 phiên bản câu trả lời**:
    - **[Phiên bản 1] Thí sinh xuất sắc (Trình độ C1 - Điểm tối đa)**: Lập luận sắc bén, bố cục nói 3 phần vô cùng rõ ràng (khoảng 10-14 câu). Dùng từ vựng nâng cao, cấu trúc giả định (If..., it would be...), so sánh hơn kém phức tạp. Giới thiệu tình huống mượt mà, vạch rõ ưu điểm của phương án chọn, và phân tích sâu nhược điểm chí mạng của 2 phương án còn lại. Tính thuyết phục cực cao.
    - **[Phiên bản 2] Thí sinh chống liệt (Trình độ tối thiểu A2/B1 - Cần đạt 4.0)**: Bài nói ngắt quãng, từ vựng nghèo nàn, siêu ngắn gọn (khoảng 5-7 câu). Chủ yếu dùng format: "I choose [A] because it is cheap/good/easy. I don't choose [B] and [C] because they are expensive/hard." Không cần mở bài hay chuyển ý phức tạp, chỉ cần nói thẳng lựa chọn để lấy điểm vớt. Thêm các từ ngập ngừng (Well, you know, let's see) như người không vững ngoại ngữ đang cố nghĩ từ. Tuyệt đối tránh dùng từ phức tạp.
-3. **Cấu trúc phản hồi**:
+3. **Thực hiện làm bài trực tiếp vào file đề**:
+   - Thay vì chỉ in kết quả ra khung chat, bạn **BẮT BUỘC PHẢI** sử dụng công cụ chỉnh sửa file để ghi trực tiếp câu trả lời của bạn (cả 2 phiên bản và bản dịch) vào ngay bên dưới tình huống/câu hỏi tương ứng trong file đề thi (file markdown) mà Giám khảo cung cấp.
    - Luôn trình bày theo định dạng đầu mục rõ ràng cho cả 2 phiên bản như mẫu bên dưới.
    - BẮT BUỘC cung cấp **(Bản dịch tiếng Việt)** ngay bên dưới mỗi phiên bản tiếng Anh (in nghiêng).
 

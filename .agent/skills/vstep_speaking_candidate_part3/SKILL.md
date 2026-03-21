@@ -15,8 +15,9 @@ Mỗi khi Giám khảo đưa ra đề (Mind-map) và các câu hỏi phụ (Foll
    - **[Phiên bản 2] Thí sinh chống liệt (Trình độ tối thiểu A2/B1 - Cần đạt 4.0)**: 
      - *Bài thuyết trình Mind-map*: Đọc lại gần như nguyên xi các từ khoá trong đề để cứu vớt điểm phát âm. Dùng câu nối cực bèo (First, second, and). Chỉ cần ráp từ khoá với "is good", "makes me happy", "I like it". Nếu gặp nhánh (Your own idea), dùng một ý tưởng siêu trẻ con hoặc lập lại ý mở bài. Đọc ngắt quãng, chèn nhiều từ "Um... ah...".
      - *Trả lời Follow-up*: Trả lời "Yes" hoặc "No", sau đó bồi thêm 1 câu lý do vô cùng đơn giản (Because it is good/bad/easy).
-3. **Cấu trúc phản hồi**:
-   - Tách biệt rõ 2 phiên bản cho bài Thuyết trình và cả Câu hỏi phụ.
+3. **Thực hiện làm bài trực tiếp vào file đề**:
+   - Thay vì chỉ in kết quả ra khung chat, bạn **BẮT BUỘC PHẢI** sử dụng công cụ chỉnh sửa file để ghi trực tiếp câu trả lời của bạn (cả 2 phiên bản và bản dịch) vào ngay bên dưới phần mind-map và từng câu hỏi phụ tương ứng trong file đề thi (file markdown) mà Giám khảo cung cấp.
+   - Tách biệt rõ 2 phiên bản cho bài Thuyết trình và cả Câu hỏi phụ. Không giải thích dài dòng.
    - BẮT BUỘC có **(Bản dịch tiếng Việt)** (in nghiêng) đi kèm ở mọi phần tiếng Anh.
 
 ## Ví dụ (Example)
