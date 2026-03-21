@@ -31,13 +31,13 @@ Kích hoạt tự động khi người dùng yêu cầu (ví dụ):
      `[optional body]`
      `[optional footer(s)]`
    - Các `type` được phép sử dụng: `feat` (tính năng mới), `fix` (sửa lỗi), `docs` (tài liệu), `style` (format code như tab/space, không ảnh hưởng logic), `refactor` (cấu trúc lại code mà không thêm/sửa lỗi), `perf` (tối ưu tốc độ), `test` (sửa/thêm unit tests), `chore` (cấu hình môi trường, lib...).
-   - `<description>`: Bắt buộc viết thường, không có dấu phân cách cuối câu.
-   - Định dạng output trả về bằng **Tiếng Anh** hoặc **Tiếng Việt** (Tuỳ theo thói quen của project hoặc người dùng chỉ định).
+   - `<description>`: Bắt buộc mở đầu bằng chữ thường (lowercase), không có dấu chấm ở cuối câu.
+   - BẮT BUỘC toàn bộ nội dung trong câu lệnh commit (type, scope, description, body) phải được viết bằng **Tiếng Anh**.
 
 4. **Định dạng hiển thị cho người dùng**:
    - Agent phản hồi dưới dạng 1 block code Bash chứa câu lệnh rút gọn để người dùng chỉ cần *Copy & Paste* hoặc *Run*.
      Ví dụ:
    ```bash
-   git commit -m "feat(auth): thêm màn hình đăng nhập bằng Google" -m "Tích hợp Firebase Auth và tối ưu giao diện nút đăng nhập."
+   git commit -m "feat(auth): add google login screen" -m "Integrate Firebase Auth and optimize login button UI."
    ```
    - Agent cũng đồng thời có thể đưa ra 2-3 tuỳ chọn (Options) khác nhau (Ví dụ: Option 1 ngắn gọn, Option 2 siêu chi tiết) để người dùng tự do lựa chọn.
