@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.suo
+*.user
+*.userprefs
+
+# .NET / MAUI / C# (Nếu bạn code app ở đây)
+[Bb]in/
+[Oo]bj/
+project.lock.json
+TestResults/
+
+# Node / Web
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs and Caches
+*.log
+.cache/
+tmp/
+temp/
