@@ -1,0 +1,5 @@
+Bố cục của một bài Writing B1 Task 1 VSTEP bao gồm 3 phần chính sau đây:
+
+*   **Salutation/Opening (Lời chào/Lời mở đầu):** Đây là phần bắt buộc phải có ở vị trí đầu của mỗi lá thư. Lời chào thường được viết dưới dạng “Dear” đi kèm với tên người nhận (ví dụ: Dear An, Dear Jane,...) và kết thúc bằng một dấu phẩy.
+*   **Body (Thân bài):** Đây là phần nội dung chính của bức thư nhằm thể hiện mục đích của người viết. Người thi cần lưu ý về độ dài và sử dụng thì (thời) sao cho thích hợp nhất để bài viết đạt được kết quả cao.
+*   **Complimentary close (Kết thư):** Ở cuối mỗi bức thư, bạn cần thêm một câu kết đi kèm dấu phẩy, ví dụ như “Sincerely,”, “Best,”, “Yours,” hoặc một biến thể tương tự,. Khác với thư hoặc email thông thường, trong bài thi VSTEP Writing Task 1, bạn **không cần phải ghi thêm tên riêng hay địa chỉ cá nhân** của mình vào cuối thư.

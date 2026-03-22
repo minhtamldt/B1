@@ -1,0 +1,8 @@
+Dưới đây là những kinh nghiệm quan trọng giúp bạn xử lý tốt phần thi VSTEP Writing B1 Task 1:
+
+*   **Đừng chủ quan với lời chào và lời kết (Salutation & Complimentary close):** Dù hai phần này có vẻ đơn giản và dễ viết, nhưng thực chất chúng lại đóng vai trò quyết định đến giọng điệu cũng như thái độ của toàn bộ lá thư. 
+*   **Lựa chọn cách xưng hô và kết thư sát với đối tượng, mục đích:**
+    *   Khi viết thư cho bạn bè thân quen, phần Salutation không nên sử dụng tên đầy đủ (ví dụ: "Dear Jane Brown,") vì điều này sẽ khiến tông giọng của bức thư bị lệch và trở nên không hợp lý với người nhận.
+    *   Phần kết thư cũng cần phải tương ứng với mục đích và nội dung của bài viết. Chẳng hạn, đối với một bức thư phàn nàn (Complaint letter), bạn tuyệt đối không nên dùng "Cheers," hoặc "Love," để kết thư vì nó sẽ làm mất đi tính hiệu quả và không truyền tải triệt để thông điệp mà đề bài yêu cầu.
+*   **Luôn hướng đến người đọc để xác định đúng văn phong:** Trong quá trình phân tích đề bài, bạn cần xác định rõ giọng điệu mà bức thư cần có là trang trọng hay không trang trọng để nhắm đúng vào đối tượng độc giả.
+*   **Tuyệt đối tránh lối văn nói trong các bức thư trang trọng:** Việc nắm bắt được mức độ trang trọng của bức thư sẽ giúp bạn có định hướng lập dàn ý và diễn đạt một cách rõ ràng. Ví dụ, trong những ngữ cảnh cần sự chuyên nghiệp, bạn không được viết tắt và phải loại bỏ những lối diễn đạt không trang trọng của văn nói như thành ngữ, tục ngữ hay từ lóng.

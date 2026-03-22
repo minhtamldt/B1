@@ -1,0 +1,10 @@
+Trong phần thi Writing B1 Task 1 VSTEP, người thi sẽ thường gặp các dạng bài viết thư (letter) hoặc email trao đổi chính sau đây:
+
+*   **Invitation letters (Thư mời):** Mục đích là mời người nhận tham gia một hoạt động nào đó. Dạng đề này thường yêu cầu viết cho người thân quen nên giọng điệu và ngôn ngữ không quá trang trọng. Đề bài sẽ cung cấp sẵn các thông tin về đối tượng nhận thư, hoàn cảnh và hoạt động cần mời.
+*   **Thank-you letters (Thư cảm ơn):** Đây là dạng bài khá phổ biến, yêu cầu người viết thể hiện sự biết ơn, cảm kích một cách chân thành và súc tích. Đề bài dạng này thường khá vắn tắt, chỉ cung cấp tình huống và người nhận.
+*   **Request letters (Thư yêu cầu):** Đề bài cung cấp các ý cơ bản về tình huống, mục đích viết thư và thông tin cần yêu cầu. Trong một số trường hợp, người nhận thư không được nhắc đến cụ thể, đòi hỏi người thi phải tự suy luận để ghi phần lời chào (Salutation) sao cho hợp lý.
+*   **Complaint letters (Thư phàn nàn):** Dạng thư dùng để khiếu nại về một vấn đề. Đề bài sẽ cung cấp tên, nghề nghiệp hoặc chức vụ của người nhận cùng với vấn đề cần xử lý. Tuy nhiên, đề sẽ không có gợi ý về ý tưởng nên thí sinh phải tự suy nghĩ và sáng tạo cách giải quyết.
+*   **Apology letters (Thư xin lỗi):** Yêu cầu người thi viết thư xin lỗi về một tình huống đáng tiếc hoặc lỗi lầm do mình gây ra. Dù đã biết trước đối tượng và hoàn cảnh, thí sinh vẫn có nhiều cơ hội để sáng tạo thêm, chẳng hạn như tự đưa ra lý do phạm lỗi và đề xuất hướng giải quyết.
+*   **Application letters (Thư xin việc):** Đối với dạng này, người viết phải nêu được khả năng đáp ứng công việc của bản thân, sự hứng thú với công việc và cách biết đến vị trí ứng tuyển. Đặc biệt, thư xin việc bắt buộc phải **sử dụng ngôn ngữ trang trọng**.
+
+Ngoài ra, các bức thư này cũng có thể được xếp vào các nhóm tổng quát hơn như **Business letter (Thư tín thương mại)** dành cho những tình huống công việc mang tính trang trọng, hoặc **Personal letter (Thư cá nhân)** cho các tình huống thân mật.

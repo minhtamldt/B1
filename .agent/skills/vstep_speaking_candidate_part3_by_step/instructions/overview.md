@@ -1,0 +1,4 @@
+Phần thi **VSTEP Speaking Part 3** là phần thi yêu cầu thí sinh phát triển chủ đề, kéo dài trong tổng cộng **5 phút**. Phần thi này được chia thành hai phần cụ thể như sau:
+
+*   **Phần 1 (Trình bày chủ đề):** Thí sinh sẽ nhận được một chủ đề đi kèm với 2-3 gợi ý cho sẵn. Bạn sẽ có **1 phút để chuẩn bị** ý tưởng, sau đó sẽ tiến hành trình bày bài nói của mình trong khoảng **2-3 phút**. Thí sinh hoàn toàn có thể trả lời bám sát theo các gợi ý đã cho, hoặc tự do phát triển và bổ sung thêm các ý kiến của bản thân.
+*   **Phần 2 (Trả lời câu hỏi mở rộng):** Giám khảo sẽ đặt thêm một vài câu hỏi liên quan trực tiếp đến chủ đề mà bạn vừa trình bày ở Phần 1.
