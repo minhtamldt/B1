@@ -1,0 +1,7 @@
+{
+  "title": "Hệ thống Tài liệu B1",
+  "description": "Tài liệu Speaking, Writing, Vocabulary cho kỳ thi VSTEP B1.",
+  "author": "tamtm",
+  "language": "vi",
+  "plugins": ["-sharing", "search", "fontsettings", "theme-default"]
+}
