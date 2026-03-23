@@ -250,6 +250,4 @@
 ---
 
 * 📖 TỪ VỰNG (VOCABULARY)
-  * [Mẫu câu Speaking Part 1](vocabulary/b1_sentences_part1.md)
-  * [Mẫu câu Speaking Part 2](vocabulary/b1_sentences_part2.md)
   * [Tổng hợp Từ vựng B1](vocabulary/vocabulary.md)
