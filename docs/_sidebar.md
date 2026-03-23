@@ -1,10 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [Trang chủ](/)
-* **Speaking**
-  * [052](speaking/052.md)
-  * [091](speaking/091.md)
-  * **Part1**
+* [🏠 Trang chủ](/) 
+* Speaking
+  * Part1
     * [001](speaking/Part1/001.md)
     * [004](speaking/Part1/004.md)
     * [007](speaking/Part1/007.md)
@@ -63,7 +61,7 @@
     * [161](speaking/Part1/161.md)
     * [162](speaking/Part1/162.md)
     * [163](speaking/Part1/163.md)
-  * **Part2**
+  * Part2
     * [002](speaking/Part2/002.md)
     * [005](speaking/Part2/005.md)
     * [035](speaking/Part2/035.md)
@@ -115,7 +113,7 @@
     * [151](speaking/Part2/151.md)
     * [154](speaking/Part2/154.md)
     * [157](speaking/Part2/157.md)
-  * **Part3**
+  * Part3
     * [003](speaking/Part3/003.md)
     * [006](speaking/Part3/006.md)
     * [062](speaking/Part3/062.md)
@@ -168,12 +166,20 @@
     * [152](speaking/Part3/152.md)
     * [155](speaking/Part3/155.md)
     * [158](speaking/Part3/158.md)
-* **Vocabulary**
+  * [052](speaking/052.md)
+  * [091](speaking/091.md)
+* Vocabulary
   * [b1_sentences_part1](vocabulary/b1_sentences_part1.md)
   * [b1_sentences_part2](vocabulary/b1_sentences_part2.md)
   * [vocabulary](vocabulary/vocabulary.md)
-* **Writing**
-  * **Task1**
+* Writing
+  * Task1
+    * Templates
+      * [01_informal_friend](writing/task1/templates/01_informal_friend.md)
+      * [02_formal_inquiry_complaint](writing/task1/templates/02_formal_inquiry_complaint.md)
+      * [03_apology_thankyou](writing/task1/templates/03_apology_thankyou.md)
+    * Topics
+      * [topic](writing/task1/topics/topic.md)
     * [01](writing/task1/01.md)
     * [03](writing/task1/03.md)
     * [04](writing/task1/04.md)
@@ -224,13 +230,7 @@
     * [71](writing/task1/71.md)
     * [72](writing/task1/72.md)
     * [73](writing/task1/73.md)
-    * **Templates**
-      * [01_informal_friend](writing/task1/templates/01_informal_friend.md)
-      * [02_formal_inquiry_complaint](writing/task1/templates/02_formal_inquiry_complaint.md)
-      * [03_apology_thankyou](writing/task1/templates/03_apology_thankyou.md)
-    * **Topics**
-      * [topic](writing/task1/topics/topic.md)
-  * **Task2**
+  * Task2
     * [02](writing/task2/02.md)
     * [06](writing/task2/06.md)
     * [10](writing/task2/10.md)
