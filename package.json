@@ -1,0 +1,18 @@
+{
+  "name": "vstep-docs",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd docs && NODE_OPTIONS='--no-deprecation' honkit serve",
+    "build": "cd docs && NODE_OPTIONS='--no-deprecation' honkit build",
+    "postinstall": "patch-package"
+  },
+  "devDependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-expandable-chapters": "^0.2.0",
+    "gitbook-plugin-page-toc-button": "^0.1.1",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "honkit": "^6.0.0",
+    "patch-package": "^8.0.1",
+    "postinstall-postinstall": "^2.1.0"
+  }
+}

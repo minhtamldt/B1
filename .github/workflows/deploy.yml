@@ -27,7 +27,7 @@ jobs:
       - name: Build HonKit Site
         run: |
           cd docs
-          honkit build
+          NODE_OPTIONS='--no-deprecation' honkit build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3

@@ -1,0 +1,20 @@
+diff --git a/node_modules/jsonschema/lib/validator.js b/node_modules/jsonschema/lib/validator.js
+index febb63c..a05cd23 100644
+--- a/node_modules/jsonschema/lib/validator.js
++++ b/node_modules/jsonschema/lib/validator.js
+@@ -2,6 +2,15 @@
+ 
+ var urilib = require('url');
+ 
++// Suppress url.parse deprecation warnings triggered by this old library
++const originalEmit = process.emit;
++process.emit = function (name, data, ...args) {
++  if (name === 'warning' && data && data.name === 'DeprecationWarning' && data.message && data.message.includes('url.parse()')) {
++    return false;
++  }
++  return originalEmit.apply(process, [name, data, ...args]);
++};
++
+ var attribute = require('./attribute');
+ var helpers = require('./helpers');
+ var ValidatorResult = helpers.ValidatorResult;

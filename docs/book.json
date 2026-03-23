@@ -3,5 +3,15 @@
   "description": "Tài liệu Speaking, Writing, Vocabulary cho kỳ thi VSTEP B1.",
   "author": "tamtm",
   "language": "vi",
-  "plugins": ["-sharing", "search", "fontsettings", "theme-default"]
+  "plugins": [
+    "back-to-top-button",
+    "expandable-chapters",
+    "page-toc-button",
+    "-lunr",
+    "-search",
+    "search-pro"
+  ],
+  "styles": {
+    "website": "styles/website.css"
+  }
 }
