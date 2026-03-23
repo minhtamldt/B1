@@ -8,6 +8,7 @@
   * [📌 Giới thiệu](speaking/00_gioi_thieu.md)
   * [🎯 Tiêu chí chấm điểm](speaking/01_tieu_chi.md)
   * [📖 Hướng dẫn cách làm](speaking/02_huong_dan.md)
+  * [🔍 Tìm kiếm theo chủ đề](speaking/speaking_search_results.md)
   * 📂 Đề bài
     * 🔹 Part 1: Giao tiếp xã hội
       * [🔖 Đề 001](speaking/Part1/001.md)
@@ -120,6 +121,7 @@
       * [🔖 Đề 151](speaking/Part2/151.md)
       * [🔖 Đề 154](speaking/Part2/154.md)
       * [🔖 Đề 157](speaking/Part2/157.md)
+      * [🔖 Bộ 20 đề bổ sung](speaking/Part2/vn_vstep_part2_new_20.md)
     * 🔹 Part 3: Phát triển chủ đề
       * [🔖 Đề 003](speaking/Part3/003.md)
       * [🔖 Đề 006](speaking/Part3/006.md)
