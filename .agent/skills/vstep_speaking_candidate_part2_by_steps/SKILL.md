@@ -28,7 +28,12 @@ Khi tiếp nhận đề bài Part 2 (bao gồm 1 tình huống và 3 lựa chọ
 - **Rà soát ngữ âm:** Chú ý các âm đuôi (ending sounds) của các từ khóa như *situation, best option, useful, inconvenient* và nhớ cần **nối âm** (ví dụ: *because of*).
 
 ### Bước 4: Thực hiện làm bài trả lời mẫu (3 phút trình bày)
-Dựa trên nền tảng 3 bước trên, bạn hãy viết bài nói hoàn chỉnh ở 2 phiên bản. 
+Dựa trên nền tảng 3 bước trên, bạn hãy viết bài nói hoàn chỉnh ở 2 phiên bản.
+
+> ⏱️ **YÊU CẦU VỀ ĐỘ DÀI — BẮT BUỘC:**
+> Part 2 kéo dài **3 phút trình bày**. Bài nói phải đủ dài để lấp đầy thời gian. Tuyệt đối không được nói vài câu rồi dừng smộc.
+> - **Phiên bản C1:** Tối thiểu **6-10 câu**. Mở rộng từng luận điểm bằng ví dụ cụ thể, phân tích hệ quả, so sánh, dùng câu điều kiện type 2.
+> - **Phiên bản B1:** Tối thiểu **4-6 câu**. Dùng template rập khuôn nhưng mở rộng Firstly/Secondly thêm 1-2 câu giải thích bổ sung; chèn "Well...", "Um, let me see..." để kéo thời gian nếu hết ý.
 
 **[Phiên bản 1] Thí sinh xuất sắc (Trình độ C1 - Điểm tối đa)**
 Thực hiện cấu trúc 4 phần linh hoạt, mở rộng ý:

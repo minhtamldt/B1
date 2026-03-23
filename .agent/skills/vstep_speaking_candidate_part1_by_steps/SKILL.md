@@ -28,8 +28,13 @@ Khi tiếp nhận các chủ đề và câu hỏi Part 1 được cung cấp (th
 ### Bước 5: Thực hiện làm bài trả lời mẫu
 Dựa trên nền tảng từ Bước 1 đến Bước 4, cung cấp câu trả lời theo nhóm đã chia ở Bước 2. Mỗi câu trả lời phải ở 2 phiên bản:
 
-- **[Phiên bản 1] Thí sinh xuất sắc (Trình độ C1 - Điểm tối đa)**: Trả lời tự nhiên, trôi chảy, có sự mở rộng ý (khoảng 3-5 câu). Áp dụng tối đa các từ vựng và từ nối từ Bước 3 & 4. 
-- **[Phiên bản 2] Thí sinh chống liệt (Trình độ tối thiểu A2/B1 - Cần đạt 4.0)**: Trả lời CỰC KỲ NGẮN GỌN (1-2 câu). Dùng từ siêu cơ bản, thậm chí chấp nhận vài lỗi nhỏ nhưng đủ ý để qua liệt. Chèn các từ ngập ngừng (Um, well).
+> ⏱️ **YÊU CẦU VỀ ĐỘ DÀI — BẮT BUỘC:**
+> Part 1 kéo dài **~3 phút**. Câu trả lời phải đủ dài để lấp đầy thời gian. Tuyệt đối không được trả lời vài câu rồi dừng — đó là lỗi nghiêm trọng làm giảm điểm Fluency.
+> - **Phiên bản C1:** Mỗi chủ đề tối thiểu **5-8 câu**. Mở rộng bằng ví dụ, anecdote, so sánh, cảm xúc cá nhân.
+> - **Phiên bản B1:** Mỗi chủ đề tối thiểu **3-5 câu**. Nếu không có thêm ý, lặp lại ý bằng từ đồng nghĩa hoặc chèn câu hỏi tu từ rồi tự trả lời.
+
+- **[Phiên bản 1] Thí sinh xuất sắc (Trình độ C1 - Điểm tối đa)**: Trả lời tự nhiên, trôi chảy, **tối thiểu 5-8 câu mỗi chủ đề**. Áp dụng tối đa từ vựng, từ nối từ Bước 3 & 4. Kết hợp anecdote cá nhân, ví dụ cụ thể, cảm xúc để bài nói phong phú và lấp đầy thời gian.
+- **[Phiên bản 2] Thí sinh chống liệt (Trình độ tối thiểu A2/B1 - Cần đạt 4.0)**: Trả lời **tối thiểu 3-5 câu mỗi chủ đề**, không dừng sớm. Dùng từ cơ bản, chấp nhận vài lỗi nhỏ. Chèn từ ngập ngừng tự nhiên ("Um...", "Well, let me think...", "I mean...") để kéo dài nếu hết ý.
 
 **Lưu ý:** BẮT BUỘC cung cấp **(Bản dịch tiếng Việt)** in nghiêng ngay bên dưới mỗi phiên bản câu trả lời để người dùng tiện tra cứu.
 

@@ -30,16 +30,28 @@ Khi tiếp nhận đề bài Part 3, bạn **BẮT BUỘC PHẢI** trình bày r
 Dựa vào dàn ý trên, tiến hành viết bài nói hoàn chỉnh ở 2 phiên bản cho cả phần **Trình bày chủ đề** và **Câu hỏi mở rộng**. BẮT BUỘC cung cấp **(Bản dịch tiếng Việt)** in nghiêng ngay bên dưới mỗi câu trả lời.
 
 **1. Phần 1: Trình bày chủ đề**
-- **[Phiên bản 1] Thí sinh xuất sắc (C1):** 
-  - Khai thác sâu các lý lẽ, dẫn chứng chi tiết và phong phú, sử dụng từ vựng cao cấp, cấu trúc phức tạp. 
+
+> ⏱️ **YÊU CẦU VỀ ĐỘ DÀI — BẮT BUỘC:**
+> Phần này kéo dài **~3-4 phút**. Phải lấp đầy thời gian bằng cách phát triển kỹ từng luận điểm. Tuyệt đối không được nói thiếu nội dung rồi dừng.
+> - **Phiên bản C1:** Tổng bài nói tối thiểu **8-12 câu** — Mỗi trong 3 luận điểm thân bài phải có ít nhất 2-3 câu lý lẽ + 1 câu dẫn chứng + 1 câu nhận xét.
+> - **Phiên bản B1:** Tổng bài nói tối thiểu **6-9 câu** — Mỗi luận điểm (Firstly/Secondly/Finally) tối thiểu 1 câu lý do + 1 câu ví dụ cá nhân.
+
+- **[Phiên bản 1] Thí sinh xuất sắc (C1):**
+  - Khai thác sâu các lý lẽ, dẫn chứng chi tiết và phong phú, sử dụng từ vựng cao cấp, cấu trúc phức tạp.
   - Đảm bảo tuân thủ bố cục mở bài (paraphrase & nêu quan điểm), 3 đoạn thân bài tách riêng cho 3 ý, và kết bài gói gọn súc tích.
-- **[Phiên bản 2] Thí sinh chống liệt (B1 tối thiểu):** 
+- **[Phiên bản 2] Thí sinh chống liệt (B1 tối thiểu):**
   - Rập khuôn theo cấu trúc đơn giản. Dùng từ siêu cơ bản, câu ngắn, trực diện, không vòng vo. Có thể chèn các từ ngập ngừng tự nhiên (Um, let me think...).
   - Vẫn phải đủ ý: Mở bài (đọc lại đề) - Thân bài (Firstly... Secondly... And finally...) - Kết bài (So I think...).
 
 **2. Phần 2: Trả lời câu hỏi mở rộng**
-- **[Phiên bản 1] Thí sinh xuất sắc (C1):** Trả lời nhạy bén (Khoảng 4-6 câu), có dẫn chứng và phản biện sắc bén, tuyệt đối không lặp lại ý của phần 1.
-- **[Phiên bản 2] Thí sinh chống liệt (B1 tối thiểu):** Mỗi câu hỏi trả lời đủ 3 câu ngắn gọn (1 câu trả lời trực tiếp, 1 câu nêu lý do chung chung, 1 câu cho ví dụ cá nhân).
+
+> ⏱️ **YÊU CẦU VỀ ĐỘ DÀI — BẮT BUỘC:**
+> Phần này kéo dài **~1-2 phút**. Mỗi câu hỏi phải được khai thác tối đa, không được chỉ trả lời 1-2 câu rồi dừng.
+> - **Phiên bản C1:** Mỗi câu hỏi tối thiểu **5-7 câu** — có dẫn chứng thực tế, phân tích chuyên sâu, phản biện nếu có thể.
+> - **Phiên bản B1:** Mỗi câu hỏi tối thiểu **3-5 câu** — 1 câu trả lời trực tiếp + 1-2 câu lý do + 1-2 câu ví dụ/mở rộng. Chèn "Well...", "I think..." để kéo dài nếu hết ý.
+
+- **[Phiên bản 1] Thí sinh xuất sắc (C1):** Trả lời nhạy bén (tối thiểu 5-7 câu), có dẫn chứng và phản biện sắc bén, tuyệt đối không lặp lại ý của phần 1.
+- **[Phiên bản 2] Thí sinh chống liệt (B1 tối thiểu):** Mỗi câu hỏi trả lời tối thiểu 3-5 câu (1 câu trả lời trực tiếp, 1-2 câu lý do chung chung, 1-2 câu ví dụ cá nhân).
 
 ## Cách thức thực hiện
 1. Bạn **BẮT BUỘC PHẢI** sử dụng công cụ để ghi toàn bộ quy trình 4 bước này theo thứ tự lồng nhau gọn gàng, chia Heading (###) trực tiếp vào file đề thi (file markdown) lưu trữ đề.
