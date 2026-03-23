@@ -23,13 +23,11 @@ jobs:
         with:
           node-version: '24'
 
-      - name: Install HonKit
-        run: npm install -g honkit
+      - name: Install Dependencies
+        run: npm ci
 
       - name: Build HonKit Site
-        run: |
-          cd docs
-          NODE_OPTIONS='--no-deprecation' honkit build
+        run: npm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
