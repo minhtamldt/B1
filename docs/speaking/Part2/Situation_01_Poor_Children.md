@@ -26,6 +26,12 @@ Which do you think is the best choice?
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/141nMOSyVlX7-grHgq8bp-cYT2qCrczQK/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
+
+
 Well, in this situation, I have to choose the best gift for poor children in a charity campaign among three options: money, clothes, and learning equipment. After weighing the pros and cons carefully, I firmly believe that providing learning equipment is the most optimal and meaningful choice. 
 
 The primary reason behind my decision is that education serves as a long-term investment. By supplying them with books, pens, backpacks, and occasionally electronic devices like tablets, we are essentially giving them the foundational tools to acquire knowledge and eventually escape the cycle of poverty in the future. It empowers them to build their own careers rather than just solving a temporary, immediate problem. Furthermore, possessing adequate learning materials directly supports their daily academic journey, boosting their confidence when they attend school alongside their peers. Without these essential tools, even the most intelligent children might struggle to keep up with the curriculum.
@@ -44,6 +50,10 @@ Therefore, considering the long-lasting educational benefits and the potential t
 > *Do đó, xét đến những lợi ích giáo dục lâu dài và tiềm năng thay đổi sâu sắc cuộc sống của các em, dụng cụ học tập là món quà hợp lý nhất.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1lcT9X2NisX5VmDnbL3pqWIhXTsn_mBbU/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is choosing the best gifts for poor children in a charity campaign. There are three options: money, clothes, and learning equipment. In my opinion, learning equipment is the best option because of some very important reasons. 
 
 Firstly, learning equipment is good and suitable. Besides, it is convenient and useful. Poor children want to go to school. But they do not have money. They cannot buy books, pens, and bags. We can give them these things. Then, they can go to school every day. They can learn how to read and write. In the future, they can find a good job. They can have a better life. They can help their family. I think it is very wonderful.
@@ -75,6 +85,10 @@ Finally, to sum up, for my way of thinking, I would choose learning equipment fo
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1gVMcFDKy-oHycmDse2vSQFDB7jGd1lxd/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 In this specific scenario, selecting the clearest and most effective gift for underprivileged children requires a highly practical mindset. Between money, clothes, and learning equipment, I strongly advocate for providing financial assistance in the form of money.
 
 The sheer flexibility of cash is undoubtedly its greatest advantage. We must acknowledge that poverty manifests differently for every single family. While some families might desperately need life-saving medicine for a sick child, others might prioritize immediate food supplies to prevent starvation, or funds to repair a leaking roof during the rainy season. Distributing money directly empowers their parents or local charity organizers to evaluate their own urgent needs and purchase exactly what is required at that specific moment. It grants them the autonomy and dignity to solve their most pressing, existential problems efficiently without depending on generic items.
@@ -93,6 +107,10 @@ All things considered, flexible financial support ensures that no contribution i
 > *Xét cho cùng, hỗ trợ tài chính linh hoạt đảm bảo rằng không có sự đóng góp nào bị lãng phí và những khó khăn riêng biệt của từng gia đình đều được giải quyết trực tiếp.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1xAy4Dmm4yugeuDorEENN3Y73-OyqqRXX/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is choosing the best gifts for poor children in a charity campaign. There are three options: money, clothes, and learning equipment. In my opinion, money is the best option because of some very important reasons. 
 
 Firstly, money is good and suitable. Besides, it is convenient and useful. Every poor family has different problems. If we give them money, their parents can buy what they need. For example, some families need rice and meat. They buy food so their children are not hungry. Some families need medicine. They buy medicine if their kids are sick. Money is the fastest way to help them live. I think this is very important.
@@ -124,6 +142,10 @@ Finally, to sum up, for my way of thinking, I would choose money for this situat
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/10GfIhupdBoLpQc9CiCofQhQ4g5bJl2MO/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Faced with the profound decision of selecting the most practical gifts for impoverished children—namely money, clothes, or learning equipment—I would undoubtedly single out clothes as the most sensible and protective contribution.
 
 The foremost justification for my choice is that clothing satisfies an immediate, vital physiological need perfectly. We must recognize that many children in poverty-stricken regions suffer tremendously due to a lack of warm coats, especially during freezing winters. Supplying thick, high-quality garments physically shields their fragile bodies from harsh weather conditions, effectively preventing severe respiratory illnesses like pneumonia. Furthermore, wearing decent, clean clothes tremendously boosts their psychological well-being. It gives them dignity and self-esteem when interacting with peers, minimizing the risk of being bullied or isolated for looking shabby. 
@@ -142,6 +164,10 @@ In conclusion, tangible apparel guarantees immediate bodily protection and unden
 > *Tóm lại, trang phục hiện hữu đảm bảo sự bảo vệ tức thì cho cơ thể và sự thoải mái về mặt tâm lý không thể phủ nhận, khiến nó trở thành món quà vượt trội.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1-69iWhQ3C-O8P9R-M0YOkyX-2JQ5tNCs/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is choosing the best gifts for poor children in a charity campaign. There are three options: money, clothes, and learning equipment. In my opinion, clothes are the best option because of some very important reasons. 
 
 Firstly, clothes are good and suitable. Besides, they are convenient and useful. Poor children really need warm clothes. In the winter, the weather is very cold. Thick jackets and shoes will keep them warm. Then they do not get sick easily. It protects their health. Also, new clothes make them look nice. They feel very happy and confident. They can go out and play with their friends laughing together.

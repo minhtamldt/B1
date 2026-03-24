@@ -26,6 +26,10 @@ Which do you think is the best choice?
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1PXaIuTNkWysc1I9KZEMMIenhTSJlYn0i/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 In this lovely situation, treating a close friend who has just finally returned from the USA requires careful and considerate culinary selection. Among the three dining choices heavily considered: a Vietnamese restaurant, a fast-food joint, or a French dining place, I would absolutely opt for taking my friend to an authentic Vietnamese restaurant without a doubt. 
 
 My primary justification is incredibly simple: sheer homesickness. Spending a prolonged period in a Western country clearly implies that my friend has undoubtedly been severely deprived of authentic homeland flavors. A hot, steaming bowl of traditional beef Pho, or perhaps some crispy, savory spring rolls, will profoundly satisfy their massive cravings and instantly make them feel truly welcomed back. In addition, local Vietnamese restaurants generally radiate an incredibly cozy, familiar, and casual atmosphere, allowing us to effortlessly catch up, laugh loudly, and reminisce about the old times for hours without feeling constrained or awkward.
@@ -44,6 +48,10 @@ In conclusion, nothing effectively beats the charm, comfort, and nostalgic taste
 > *Cuối cùng, để khép lại, chẳng có liều thuốc tinh thần nào thay thế hiệu quả được nét duyên dáng, cảm giác che chở và hương vị hoài niệm của ẩm thực truyền thống quê nhà khi dang tay đón chào một người con xa xứ trở về với đại gia đình cội nguồn.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1XZECZq8qNPFYzIOW7-rOfDRoD6bWgUpt/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is entertaining a friend who has just come back from the USA. There are three options: a Vietnamese restaurant, a fast-food restaurant, and a French restaurant. In my opinion, a Vietnamese restaurant is the best option because of some very important reasons.
 
 Firstly, a Vietnamese restaurant is good and suitable. Besides, it is convenient and useful. My friend lived in the USA for many years. So, he did not eat our traditional Vietnamese food. He must really miss the taste of our country. He misses bowl of hot Pho or Bun cha. When we eat our homeland food together, he will be very happy. The place is warm and friendly. We can talk, eat, and smile for a long time.
@@ -75,6 +83,10 @@ Finally, to sum up, for my way of thinking, I would choose a Vietnamese restaura
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1ELm-dX9Q8-a4eNrQO5nfD1KkhdiVv-MI/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Taking a friend returning from the USA out to eat poses an interesting culinary dilemma. Given the options of a traditional Vietnamese restaurant, a fast-food chain, or an elegant French restaurant, I controversially believe that grabbing a quick meal at a fast-food restaurant is the most pragmatic and considerate move in this specific context.
 
 The cornerstone of my argument heavily relies on speed and absolute convenience. Understandably, enduring an exhausting 20-hour transpacific flight inevitably leaves anyone utterly jet-lagged, physically drained, and brutally exhausted. They surely just want a quick bite filled with familiar comfort carbohydrates to rapidly refuel their energy before instantly hitting their bed. A massive burger and a cold soda provide that instant dopamine hit without requiring them to endure any exhausting culinary rituals or agonizing waiting times. Plus, it serves as a soft, culturally familiar transitional meal for their body.
@@ -93,6 +105,10 @@ Therefore, opting for a rapid, comforting fast-food meal caters perfectly to the
 > *Chính vì vậy, chọn lựa một bữa ăn nhanh chóng, dễ tiêu hóa như fast-food thỏa mãn một cách hoàn mỹ sự bức bối thể chất cấp thời trước khi chúng ta kịp toan tính những dạ tiệc tân gia quy mô tầm cỡ về sau.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1cT7LkAqTWIjNtO9X0hL3wSRpAxNMX2GM/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is entertaining a friend who has just come back from the USA. There are three options: a Vietnamese restaurant, a fast-food restaurant, and a French restaurant. In my opinion, a fast-food restaurant is the best option because of some very important reasons.
 
 Firstly, a fast-food restaurant is good and suitable. Besides, it is convenient and useful. My friend had a very long flight from America. So, he is extremely tired and sleepy. He does not want to sit and wait. Fast food is very fast. The staff gives us the food immediately. He can eat a burger quickly. He gets his energy back. Then, he can go home and sleep in his bed right away.
@@ -124,6 +140,10 @@ Finally, to sum up, for my way of thinking, I would choose a fast-food restauran
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1q9Ms_fO7aFtnJESK1zLn_CbJiJmnxkJY/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Welcoming a beloved friend back from an extensive stay in the United States is undoubtedly an exceptionally momentous occasion that demands a proper celebration. Confronted with a choice between a traditional Vietnamese eatery, a fast-food spot, and an elegant French restaurant, I firmly advocate for treating my friend to a luxurious French cuisine experience.
 
 My primary rationale centers exclusively on the significance of celebrating our remarkable reunion adequately. A French restaurant inherently radiates a highly sophisticated, impeccably upscale ambiance, complemented by melodic classical music and flawless tableside service. This extraordinarily prestigious setting communicates deep, undeniable gestures of appreciation and immense respect towards our enduring, life-long friendship. Having not seen each other for years, we absolutely require this sophisticated quietude to sip fine wine, share profound memories, and intimately exchange life milestones without being rudely interrupted by a chaotic surrounding environment.
@@ -142,6 +162,10 @@ To encapsulate, nothing commemorates the emotional gravity of a long-awaited hom
 > *Để tóm lược lại, chẳng có nghi luận nào có thể tôn vinh được mức độ nghiêm túc, thiêng liêng và cảm xúc vỡ òa của một người con quê hương quay trở về quê hương tổ tiên một cách hoàn mỹ đầy diễm lệ như quá trình tận hưởng ẩm thực Pháp tinh hoa thanh tịch.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1-12GoOahNPMzJRoqrPvDwqozFYrBPEjH/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is entertaining a friend who has just come back from the USA. There are three options: a Vietnamese restaurant, a fast-food restaurant, and a French restaurant. In my opinion, a French restaurant is the best option because of some very important reasons.
 
 Firstly, a French restaurant is good and suitable. Besides, it is convenient and useful for a special party. It is a very beautiful and quiet place. The music is very romantic. We haven't seen each other for many years. So, we need a luxury and clean place to sit down. We can talk quietly about our lives. We can drink nice wine to celebrate our friendship and welcome him back.

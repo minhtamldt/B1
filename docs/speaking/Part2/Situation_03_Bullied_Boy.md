@@ -26,6 +26,10 @@ Which do you think is the best choice?
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1PXaIuTNkWysc1I9KZEMMIenhTSJlYn0i/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, this is fundamentally a very delicate and critical situation. Having witnessed an innocent boy being chronically bullied at school, I am presented with three potential courses of action: telling his teacher, his parents, or his friends. After serious and thoughtful consideration, talking to his teacher is indubitably the most sensible and effective approach.
 
 To begin with, teachers are the ultimate authority figures functioning within the school premises. They ideally possess the necessary pedagogical training, psychological understanding, and the direct administrative power to officially intervene and halt the bullying behavior immediately. A teacher can objectively investigate the root cause of the incident without emotional bias, impose appropriate disciplinary consequences on the bullies based on strict school regulations, and guarantee a significantly safer learning environment for the victim moving forward. It ensures the problem is resolved systematically, professionally, and confidentially without creating unnecessary drama.
@@ -44,6 +48,10 @@ Taking every angle into account, alerting the teacher remains the safest, most s
 > *Suy xét mọi khía cạnh, việc cảnh báo cho giáo viên vẫn là giải pháp an toàn, có cấu trúc chặt chẽ và hiệu quả nhất nhằm giải quyết vấn đề bạo lực học đường một cách toàn diện.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1XZECZq8qNPFYzIOW7-rOfDRoD6bWgUpt/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is seeing a boy who is bullied at school. There are three options: talk to his teacher, talk to his parents, and talk to his friends. In my opinion, talking to his teacher is the best option because of some very important reasons.
 
 Firstly, talking to his teacher is good and suitable. Besides, it is convenient and useful. The teacher is an adult. The teacher works at the school every day. Teachers have the power. They can stop the bad students. They can punish them. They will keep the boy safe. Also, teachers are very smart. They know how to talk nicely to students. They solve the problem quietly. The boy does not feel scared or shy.
@@ -75,6 +83,10 @@ Finally, to sum up, for my way of thinking, I would choose talking to his teache
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1ELm-dX9Q8-a4eNrQO5nfD1KkhdiVv-MI/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 If I ever witness an innocent boy getting mercilessly bullied by his peers, choosing the absolute best recipient to report the incident to—among teachers, parents, and friends—is highly critical. I firmly maintain that contacting his parents directly is the absolute best and most protective course of action.
 
 My primary motivation stems deeply from the fact that parents are a child's utmost guardians, possessing both the strongest emotional bond and the indisputable legal mandate to protect him. When notified about the abuse, they can officially escalate the harassment to the school board, forcefully demanding strict disciplinary measures, or even involving law enforcement authorities if the violence is severe. Moreover, discovering the painful truth from an outsider enables parents to immediately build a safe haven at home. They can provide essential emotional support, love, and professional psychological counseling if necessary, effectively shielding the child from plunging into severe trauma or chronic depression.
@@ -93,6 +105,10 @@ Therefore, looping in his parents guarantees an uncompromising, fully protective
 > *Vì vậy, việc thông báo cho cha mẹ em đảm bảo một phản ứng bảo vệ kiên quyết, toàn diện và dạt dào yêu thương dành cho cậu bé là nạn nhân.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1cT7LkAqTWIjNtO9X0hL3wSRpAxNMX2GM/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is seeing a boy who is bullied at school. There are three options: talk to his teacher, talk to his parents, and talk to his friends. In my opinion, talking to his parents is the best option because of some very important reasons.
 
 Firstly, talking to his parents is good and suitable. Besides, it is convenient and useful. Parents love their son very much. They love him more than anyone in the world. When they know he is bullied, they will act fast. They will go to the school. They will tell the headmaster to stop it and protect him. Also, at home, they can hold him. They give him warm hugs. They give him love. So he is not sad anymore.
@@ -124,6 +140,10 @@ Finally, to sum up, for my way of thinking, I would choose talking to his parent
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1q9Ms_fO7aFtnJESK1zLn_CbJiJmnxkJY/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 If I were to witness school bullying unfold, figuring out whom to discreetly inform—the teacher, his parents, or his friends—is practically a moral dilemma. Surprisingly, after analyzing the complex psychology of bullying, I would purposefully elect to inform the boy's closest group of friends above any adult figures.
 
 My fundamental rationale is deeply rooted in the proven effectiveness of peer support dynamics. The brutal reality of bullying is that predators overwhelmingly target isolated, lonely individuals. By secretly alerting his circle of trusted friends, they can instantly form a tight-knit protective unit. They can proactively accompany him constantly—whether walking in empty hallways, going to the bathrooms, or sitting in bustling cafeterias—thereby vastly reducing his vulnerability without escalating violence. Most imperatively, resolving this internally among peers prevents labeling the victim as a pathetic "snitch," seamlessly preserving his social status, pride, and dignity within the complex school hierarchy.
@@ -142,6 +162,10 @@ Taking every psychological angle into account, leveraging the subtle but fierce 
 > *Cân nhắc từ mọi góc độ tâm lý, việc tận dụng sự bảo vệ tế nhị nhưng mạnh mẽ từ những người bạn đồng trang lứa trung thành thực chất là một cách tiếp cận thông minh, ít tổn hại nhất đối với trường hợp nạn nhân đặc thù này.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1-12GoOahNPMzJRoqrPvDwqozFYrBPEjH/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is seeing a boy who is bullied at school. There are three options: talk to his teacher, talk to his parents, and talk to his friends. In my opinion, talking to his friends is the best option because of some very important reasons.
 
 Firstly, talking to his friends is good and suitable. Besides, it is convenient and useful. His friends can stay with him. They can walk to the toilet together. They can read books in the library together. They can go home together every day. When he is with a big group of friends, he is safe. The bad students are afraid of big groups. They cannot hit him or laugh at him anymore.

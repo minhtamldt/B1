@@ -26,6 +26,10 @@ Which do you think is the best choice?
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1vgnfzdEC-4quZ7MIVWTskWmkHwdGFKOI/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 In this situation, I have to select the best part-time job to enhance my communication skills among three choices: a waiter, a teaching assistant, and a shop assistant. From my perspective, working as a shop assistant is undoubtedly the most effective and challenging choice.
 
 The standout reason is the sheer diversity and depth of daily interactions. As a shop assistant in retail, I would constantly engage with a wide variety of customers, each possessing completely different personalities, preferences, and demands. This role strictly demands active listening to understand customer needs, the ability to build rapport quickly, and most importantly, advanced persuasion skills to close sales successfully. Furthermore, retail environments regularly present unexpected challenges, such as handling dissatisfied customers or processing refunds. Experiencing these situations daily would comprehensively upgrade my verbal flexibility, problem-solving skills, and my capacity to maintain a calm, professional tone under pressure.
@@ -44,6 +48,10 @@ All factors considered, being a shop assistant offers the dynamic, unpredictable
 > *Xét trên mọi yếu tố, làm nhân viên bán hàng mang lại một môi trường năng động và khó đoán, điều kiện tiên quyết để thực sự làm chủ kỹ năng tương tác giữa các cá nhân.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/12ZeMqCDSJVdF6FPev-OQEf67dr2v6ui0/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is looking for a part-time job to improve my communication skills. There are three options: a waiter, a teaching assistant, and a shop assistant. In my opinion, a shop assistant is the best option because of some very important reasons.
 
 Firstly, a shop assistant is good and suitable. Besides, it is convenient and useful. When I work in a busy shop, there are many people. I meet and talk to a lot of new people every day. I listen to what they want. Then, I try to talk and make them buy the products. Sometimes, customers are angry. I have to say sorry. I have to smile politely. This helps my speaking skills become very strong.
@@ -75,6 +83,10 @@ Finally, to sum up, for my way of thinking, I would choose a shop assistant for 
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1p6ppPfjGd918kg7w_tyylIUcPGxN0ywW/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 If I were to pick a part-time job specifically to bolster my communicative abilities from these three choices, I would decisively go for the waiter position.
 
 The primary factor driving this decision is the exceptionally high-pressure atmosphere typical in the food and beverage industry. Serving food is not just about bringing plates; it requires rapid, accurate verbal exchanges not just with immensely hungry, sometimes impatient customers, but also with frantic kitchen staff working in chaotic conditions. Navigating these tense, fast-paced situations teaches profound emotional intelligence, patience, and the critical skill of de-escalating anger flawlessly. When a wrong order is delivered, you must apologize professionally and offer an immediate solution. It forces rapid thinking on your feet, which is the sheer essence of elite communication.
@@ -93,6 +105,10 @@ Hence, to rapidly build resilient communication skills under extreme pressure, b
 > *Vì vậy, để nhanh chóng xây dựng kỹ năng giao tiếp bền bỉ dưới áp lực khắc nghiệt, việc trở thành một nhân viên phục vụ bàn thực sự là không có đối thủ.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1TyUMOWrUSxWRcGu-Bxrko6XzkgNESYqE/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is looking for a part-time job to improve my communication skills. There are three options: a waiter, a teaching assistant, and a shop assistant. In my opinion, a waiter is the best option because of some very important reasons.
 
 Firstly, a waiter is good and suitable. Besides, it is convenient and useful. A restaurant is always a very busy place. There are many people there. Every day, I have to talk to many hungry customers. I ask what food they want. Sometimes they are angry, but I must keep smiling. I also run to the kitchen and talk to the chefs fast. This job trains me to speak and listen very fast safely.
@@ -124,6 +140,10 @@ Finally, to sum up, for my way of thinking, I would choose a waiter for this sit
 ### Bước 3: Trả lời mẫu (3 phút)
 
 #### 🏆 [C1] Thí sinh xuất sắc
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1fxOR_QISl5aRnOoPMuxjPk68Fm0w_zMF/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 When evaluating the optimal part-time job for refining one's communication skills—between a waiter, a teaching assistant, and a shop assistant—acting as a teaching assistant emerges as the most intellectually rewarding and professional choice.
 
 The rationale behind my selection relates deeply to the depth and overall quality of communication involved. As a teaching assistant, one is frequently tasked with conveying complex, abstract academic concepts to students in an easily digestible and clear manner. This process rigorously trains an individual in clarity, articulation, and structural exposition. More importantly, this role provides invaluable opportunities for public speaking, such as delivering presentations or answering challenging questions in front of a crowded classroom. Mastering these activities instills a tremendous level of confidence and poise that is highly transferable to any future professional workplace or corporate career.
@@ -142,6 +162,10 @@ To sum up, for those seeking to elevate their communication abilities from simpl
 > *Cuối cùng, đối với những cá nhân mong muốn nâng cấp khả năng giao tiếp từ những câu chuyện phiếm đời thường sang kỹ năng diễn thuyết chuyên nghiệp, rõ ràng trước công chúng, việc trở thành một trợ giảng chắc chắn là một tiêu chuẩn vàng.*
 
 #### 🛡️ [B1] Thí sinh chống liệt
+
+<div style="width: 100%; overflow: hidden; border-radius: 8px;">
+  <iframe src="https://drive.google.com/file/d/1nwGROW59Ia_mzolGRuItiyAicp2Y2rZt/preview" style="width: calc(100% + 60px); height: 80px; border: none;" allow="autoplay"></iframe>
+</div>
 Well, um, let me see... My situation is looking for a part-time job to improve communication skills. There are three options: a waiter, a teaching assistant, and a shop assistant. In my opinion, a teaching assistant is the best option because of some very important reasons.
 
 Firstly, a teaching assistant is good and suitable. Besides, it is convenient and useful. In this job, I work in a school. I help young students learn difficult lessons. I learn how to speak very clearly. Every day, I stand in front of a big class and speak loudly. This makes me very brave and confident. I learn to use good and polite words. This is very helpful when I look for a good job later.
