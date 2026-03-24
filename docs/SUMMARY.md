@@ -92,6 +92,11 @@
       * [🔖 Đề 162](speaking/Part1/162.md)
       * [🔖 Đề 163](speaking/Part1/163.md)
     * 🔹 Part 2: Thảo luận giải pháp
+      * 📚 Bộ 4 Tình Huống Chi Tiết (Full Options)
+        * [🔖 Tình huống 1: Quà cho trẻ em nghèo](speaking/Part2/Situation_01_Poor_Children.md)
+        * [🔖 Tình huống 2: Job luyện giao tiếp](speaking/Part2/Situation_02_Communication_Skills_Job.md)
+        * [🔖 Tình huống 3: Học sinh bị bắt nạt](speaking/Part2/Situation_03_Bullied_Boy.md)
+        * [🔖 Tình huống 4: Đãi tiệc bạn từ Mỹ](speaking/Part2/Situation_04_Restaurant_For_Friend.md)
       * [🔖 Đề 002](speaking/Part2/002.md)
       * [🔖 Đề 005](speaking/Part2/005.md)
       * [🔖 Đề 035](speaking/Part2/035.md)
