@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- Where was your favorite place to play as a child?
-- Did you have a lot of free time when you were young?
-- Were your parents strict with you during your childhood?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- Where was your favorite place to play as a child? (Nơi chơi đùa yêu thích nhất của bạn khi còn nhỏ là ở đâu?)
+- Did you have a lot of free time when you were young? (Bạn có nhiều thời gian rảnh khi còn nhỏ không?)
+- Were your parents strict with you during your childhood? (Bố mẹ có nghiêm khắc với bạn trong suốt thời thơ ấu không?)
 
-**Now, let's talk about reading newspapers and magazines.**
-- Do you prefer sports news or entertainment news?
-- Are magazines usually more expensive than newspapers?
-- How do newspapers influence public opinion?
+**Now, let's talk about reading newspapers and magazines.** (Bây giờ, hãy nói về việc đọc báo và tạp chí.)
+- Do you prefer sports news or entertainment news? (Bạn thích tin tức thể thao hay tin tức giải trí hơn?)
+- Are magazines usually more expensive than newspapers? (Tạp chí thường đắt hơn báo chí phải không?)
+- How do newspapers influence public opinion? (Báo chí ảnh hưởng đến dư luận như thế nào?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) Favorite place to play? (2) Lot of free time? (3) Parents strict? |
-| **Chủ đề 2: Newspapers & Magazines** | (1) Sports or entertainment news? (2) Magazines more expensive? (3) Influence public opinion? |
+| **Chủ đề 1: Childhood** | (1) Favorite place to play? (Chỗ chơi yêu thích?) (2) Lot of free time? (Nhiều thời gian rảnh?) (3) Parents strict? (Bố mẹ nghiêm khắc?) |
+| **Chủ đề 2: Newspapers & Magazines** | (1) Sports or entertainment news? (Tin thể thao hay giải trí?) (2) Magazines more expensive? (Tạp chí đắt hơn?) (3) Influence public opinion? (Ảnh hưởng dư luận?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

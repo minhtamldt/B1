@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- Do you ever give gifts to yourself?
-- What is the most expensive gift you have bought for someone?
-- Do you think gift-giving is important in relationships?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- Do you ever give gifts to yourself? (Bạn có bao giờ tự tặng quà cho bản thân không?)
+- What is the most expensive gift you have bought for someone? (Món quà đắt nhất bạn từng mua cho ai đó là gì?)
+- Do you think gift-giving is important in relationships? (Bạn có nghĩ việc tặng quà là quan trọng trong các mối quan hệ không?)
 
-**Now, let's talk about hobbies and collections.**
-- Did you collect anything when you were a child?
-- What is the most interesting collection you have ever seen?
-- Why do people enjoy collecting expensive items?
+**Now, let's talk about hobbies and collections.** (Bây giờ, hãy nói về sở thích và sưu tầm.)
+- Did you collect anything when you were a child? (Bạn có sưu tầm thứ gì khi còn nhỏ không?)
+- What is the most interesting collection you have ever seen? (Bộ sưu tập thú vị nhất bạn từng thấy là gì?)
+- Why do people enjoy collecting expensive items? (Tại sao mọi người thích sưu tầm những món đồ đắt tiền?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Gift to yourself? (2) Most expensive gift bought? (3) Important in relationships? |
-| **Chủ đề 2: Hobbies/Collections** | (1) Collect when a child? (2) Most interesting collection seen? (3) Why collect expensive items? |
+| **Chủ đề 1: Giving gifts** | (1) Gift to yourself? (Tự tặng quà mình?) (2) Most expensive gift bought? (Quà đắt nhất từng mua?) (3) Important in relationships? (Quan trọng trong MQH không?) |
+| **Chủ đề 2: Hobbies/Collections** | (1) Collect when a child? (Sưu tầm gì hồi nhỏ?) (2) Most interesting collection seen? (Bộ sưu tập thú vị nhất?) (3) Why collect expensive items? (Tại sao sưu tầm đồ đắt tiền?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

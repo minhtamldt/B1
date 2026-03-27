@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Who makes the most important decisions in your family?
-- Do you think family structures have changed in recent years?
-- What is the best way to resolve family conflicts?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Who makes the most important decisions in your family? (Ai là người đưa ra những quyết định quan trọng nhất trong gia đình bạn?)
+- Do you think family structures have changed in recent years? (Bạn có nghĩ cấu trúc gia đình đã thay đổi trong những năm gần đây không?)
+- What is the best way to resolve family conflicts? (Cách tốt nhất để giải quyết các mâu thuẫn gia đình là gì?)
 
-**Now, let's talk about giving gifts.**
-- Do you usually prepare gifts well in advance or at the last minute?
-- What gifts are considered inappropriate in your culture?
-- How do you react when you receive a duplicate gift?
+**Now, let's talk about giving gifts.** (Bây giờ, hãy nói về việc tặng quà.)
+- Do you usually prepare gifts well in advance or at the last minute? (Bạn thường chuẩn bị quà từ sớm hay vào phút chót?)
+- What gifts are considered inappropriate in your culture? (Loại quà tặng nào bị coi là không phù hợp trong văn hóa của bạn?)
+- How do you react when you receive a duplicate gift? (Bạn phản ứng thế nào khi nhận được một món quà bị trùng?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Important decisions? (2) Family structures changed? (3) Resolve conflicts? |
-| **Chủ đề 2: Giving gifts** | (1) Prepare early or late? (2) Inappropriate gifts? (3) React to duplicate gifts? |
+| **Chủ đề 1: Family** | (1) Important decisions? (Quyết định quan trọng?) (2) Family structures changed? (Cấu trúc gia đình thay đổi?) (3) Resolve conflicts? (Giải quyết mâu thuẫn?) |
+| **Chủ đề 2: Giving gifts** | (1) Prepare early or late? (Chuẩn bị sớm hay muộn?) (2) Inappropriate gifts? (Quà tặng không phù hợp?) (3) React to duplicate gifts? (Phản ứng khi quà trùng?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

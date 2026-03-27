@@ -210,6 +210,7 @@
   * [📖 Hướng dẫn cách làm](writing/02_huong_dan.md)
   * 📂 Đề bài
     * ✉️ Task 1: Viết Thư / Email
+      * [🔍 Phân loại theo mục tiêu](writing/task1/00_phan_loai.md)
       * 📋 Biểu mẫu (Templates)
         * [Thư thân mật (Informal)](writing/task1/templates/01_informal_friend.md)
         * [Thư trang trọng (Formal)](writing/task1/templates/02_formal_inquiry_complaint.md)
@@ -288,6 +289,12 @@
         * [🔖 Đề 67](writing/task2/67.md)
 
 ---
+ 
+* 📖 KỸ NĂNG READING
+  * [🔖 Đề 01: Black Friday & ASEAN](reading/01_black_friday_asean.md)
+  * [🔖 Đề 02: Parks & Puppies](reading/02_parks_dogs.md)
 
+---
+ 
 * 📖 TỪ VỰNG (VOCABULARY)
   * [Tổng hợp Từ vựng B1](vocabulary/vocabulary.md)

@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- What kinds of gifts are suitable for a wedding?
-- Do you prefer buying gifts online or in a physical store?
-- Is gift-giving common in workplaces in your country?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- What kinds of gifts are suitable for a wedding? (Loại quà tặng nào phù hợp cho một đám cưới?)
+- Do you prefer buying gifts online or in a physical store? (Bạn thích mua quà trực tuyến hay tại cửa hàng vật lý hơn?)
+- Is gift-giving common in workplaces in your country? (Việc tặng quà có phổ biến tại nơi làm việc ở nước bạn không?)
 
-**Now, let's talk about reading newspapers and magazines.**
-- Have you ever subscribed to a magazine?
-- Are fashion magazines popular among young people in your country?
-- Do you think printed newspapers will disappear in the future?
+**Now, let's talk about reading newspapers and magazines.** (Bây giờ, hãy nói về việc đọc báo và tạp chí.)
+- Have you ever subscribed to a magazine? (Bạn đã từng đăng ký đặt tạp chí dài hạn chưa?)
+- Are fashion magazines popular among young people in your country? (Tạp chí thời trang có phổ biến trong giới trẻ ở nước bạn không?)
+- Do you think printed newspapers will disappear in the future? (Bạn có nghĩ báo in sẽ biến mất trong tương lai không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Suitable for wedding? (2) Buy online or physical store? (3) Common in workplaces? |
-| **Chủ đề 2: Newspapers & Magazines** | (1) Subscribed to magazine? (2) Fashion magazines popular? (3) Printed newspapers disappear? |
+| **Chủ đề 1: Giving gifts** | (1) Suitable for wedding? (Phù hợp đám cưới?) (2) Buy online or physical store? (Mua online hay tại cửa hàng?) (3) Common in workplaces? (Phổ biến ở nơi làm việc?) |
+| **Chủ đề 2: Newspapers & Magazines** | (1) Subscribed to magazine? (Đã từng đặt tạp chí?) (2) Fashion magazines popular? (Tạp chí thời trang có phổ biến?) (3) Printed newspapers disappear? (Báo in biến mất?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

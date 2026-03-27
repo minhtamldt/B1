@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- Do you think it's better to give money or a physical gift?
-- Have you ever received a gift that was handmade?
-- Is it important to wrap a gift beautifully?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- Do you think it's better to give money or a physical gift? (Bạn nghĩ nên tặng tiền hay một món quà hiện vật thì tốt hơn?)
+- Have you ever received a gift that was handmade? (Bạn đã từng nhận được một món quà tự làm chưa?)
+- Is it important to wrap a gift beautifully? (Việc gói quà đẹp có quan trọng không?)
 
-**Now, let's talk about your childhood.**
-- Did you have a pet when you were a child?
-- What foods did you dislike when you were young?
-- Were you a well-behaved child?
+**Now, let's talk about your childhood.** (Bây giờ, hãy nói về tuổi thơ của bạn.)
+- Did you have a pet when you were a child? (Bạn có nuôi thú cưng khi còn nhỏ không?)
+- What foods did you dislike when you were young? (Những loại thức ăn nào bạn ghét khi còn nhỏ?)
+- Were you a well-behaved child? (Bạn có phải là một đứa trẻ ngoan không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Money or physical gift? (2) Received handmade gift? (3) Wrap beautifully? |
-| **Chủ đề 2: Childhood** | (1) Had a pet? (2) Disliked foods? (3) Well-behaved? |
+| **Chủ đề 1: Giving gifts** | (1) Money or physical gift? (Tiền hay quà hiện vật?) (2) Received handmade gift? (Có nhận quà thủ công?) (3) Wrap beautifully? (Gói đẹp có quan trọng không?) |
+| **Chủ đề 2: Childhood** | (1) Had a pet? (Có nuôi thú cưng?) (2) Disliked foods? (Ghét đồ ăn gì?) (3) Well-behaved? (Có ngoan ngoãn không?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

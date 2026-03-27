@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Does your family have any special traditions?
-- What is the most important rule in your family?
-- Do you think parents should make decisions for their children?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Does your family have any special traditions? (Gia đình bạn có truyền thống đặc biệt nào không?)
+- What is the most important rule in your family? (Quy tắc quan trọng nhất trong gia đình bạn là gì?)
+- Do you think parents should make decisions for their children? (Bạn có nghĩ cha mẹ nên đưa ra quyết định cho con cái không?)
 
-**Now, let's talk about hobbies.**
-- Are there any hobbies you would like to try in the future?
-- Do you prefer relaxing hobbies or active ones?
-- How much money should people spend on their hobbies?
+**Now, let's talk about hobbies.** (Bây giờ, hãy nói về sở thích.)
+- Are there any hobbies you would like to try in the future? (Có sở thích nào bạn muốn thử trong tương lai không?)
+- Do you prefer relaxing hobbies or active ones? (Bạn thích những sở thích thư giãn hay những sở thích vận động hơn?)
+- How much money should people spend on their hobbies? (Mọi người nên chi bao nhiêu tiền cho sở thích của mình?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Special traditions? (2) Important rule? (3) Parents make decisions? |
-| **Chủ đề 2: Hobbies** | (1) Hobbies to try in future? (2) Relaxing or active? (3) How much money? |
+| **Chủ đề 1: Family** | (1) Special traditions? (Truyền thống đặc biệt?) (2) Important rule? (Quy tắc quan trọng?) (3) Parents make decisions? (Cha mẹ có nên quyết định?) |
+| **Chủ đề 2: Hobbies** | (1) Hobbies to try in future? (Sở thích muốn thử?) (2) Relaxing or active? (Thư giãn hay vận động?) (3) How much money? (Chi bao nhiêu tiền?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- Did your parents spend a lot of time with you when you were young?
-- What was your favorite subject in primary school?
-- Do you still keep in touch with your childhood friends?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- Did your parents spend a lot of time with you when you were young? (Bố mẹ có dành nhiều thời gian cho bạn khi bạn còn nhỏ không?)
+- What was your favorite subject in primary school? (Môn học yêu thích của bạn ở trường tiểu học là gì?)
+- Do you still keep in touch with your childhood friends? (Bạn có còn giữ liên lạc với những người bạn thời thơ ấu không?)
 
-**Now, let's talk about hobbies and collections.**
-- Will you start a new collection in the future?
-- Is there anything you used to collect but no longer do?
-- How do collections help people learn about history or culture?
+**Now, let's talk about hobbies and collections.** (Bây giờ, hãy nói về sở thích và sưu tầm.)
+- Will you start a new collection in the future? (Bạn sẽ bắt đầu một bộ sưu tập mới trong tương lai chứ?)
+- Is there anything you used to collect but no longer do? (Có thứ gì bạn từng sưu tầm nhưng giờ không còn nữa không?)
+- How do collections help people learn about history or culture? (Các bộ sưu tập giúp mọi người tìm hiểu về lịch sử hoặc văn hóa như thế nào?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) Parents spend time? (2) Favorite subject? (3) Keep in touch with friends? |
-| **Chủ đề 2: Hobbies & Collections** | (1) Start new collection? (2) Used to collect but stopped? (3) Learn history/culture? |
+| **Chủ đề 1: Childhood** | (1) Parents spend time? (Bố mẹ dành thời gian?) (2) Favorite subject? (Môn học yêu thích?) (3) Keep in touch with friends? (Giữ liên lạc với bạn bè?) |
+| **Chủ đề 2: Hobbies & Collections** | (1) Start new collection? (Bắt đầu bộ sưu tập mới?) (2) Used to collect but stopped? (Từng sưu tầm nhưng đã dừng?) (3) Learn history/culture? (Học lịch sử/văn hóa?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- What games did you usually play when you were a child?
-- Did you play outdoors a lot?
-- How have children's games changed since you were young?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- What games did you usually play when you were a child? (Bạn thường chơi những trò chơi gì khi còn nhỏ?)
+- Did you play outdoors a lot? (Bạn có chơi ngoài trời nhiều không?)
+- How have children's games changed since you were young? (Các trò chơi của trẻ em đã thay đổi như thế nào kể từ khi bạn còn nhỏ?)
 
-**Now, let's talk about giving gifts.**
-- Is it difficult to choose the right gift for someone?
-- How do you choose gifts for your friends?
-- Have you ever given a handmade gift?
+**Now, let's talk about giving gifts.** (Bây giờ, hãy nói về việc tặng quà.)
+- Is it difficult to choose the right gift for someone? (Có khó khăn khi chọn đúng món quà cho ai đó không?)
+- How do you choose gifts for your friends? (Bạn chọn quà cho bạn bè như thế nào?)
+- Have you ever given a handmade gift? (Bạn đã từng tặng một món quà tự làm chưa?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) What games did you usually play? (2) Did you play outdoors a lot? (3) How have children's games changed? |
-| **Chủ đề 2: Giving gifts** | (1) Is it difficult to pick the right gift? (2) How to choose? (3) Ever given a handmade gift? |
+| **Chủ đề 1: Childhood** | (1) What games did you usually play? (Thường chơi trò gì?) (2) Did you play outdoors a lot? (Có chơi ngoài trời nhiều không?) (3) How have children's games changed? (Trò chơi trẻ em thay đổi thế nào?) |
+| **Chủ đề 2: Giving gifts** | (1) Is it difficult to pick the right gift? (Có khó chọn đúng quà không?) (2) How to choose? (Chọn thế nào?) (3) Ever given a handmade gift? (Từng tặng đồ tự làm chưa?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

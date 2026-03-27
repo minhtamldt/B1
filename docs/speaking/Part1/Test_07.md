@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Can you describe your family?
-- What is the best thing about your family?
-- How has your family influenced your personality?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Can you describe your family? (Bạn có thể mô tả về gia đình của mình không?)
+- What is the best thing about your family? (Điều tuyệt vời nhất về gia đình bạn là gì?)
+- How has your family influenced your personality? (Gia đình đã ảnh hưởng đến tính cách của bạn như thế nào?)
 
-**Now, let's talk about your childhood.**
-- Who was your childhood idol?
-- Did you prefer playing alone or with others when you were young?
-- What did you want to be when you were a child?
+**Now, let's talk about your childhood.** (Bây giờ, hãy nói về tuổi thơ của bạn.)
+- Who was your childhood idol? (Thần tượng tuổi thơ của bạn là ai?)
+- Did you prefer playing alone or with others when you were young? (Khi còn nhỏ, bạn thích chơi một mình hay chơi với người khác hơn?)
+- What did you want to be when you were a child? (Bạn muốn trở thành gì khi còn là một đứa trẻ?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Describe family? (2) Best thing? (3) Influence on personality? |
-| **Chủ đề 2: Childhood** | (1) Childhood idol? (2) Play alone or with others? (3) What did you want to be? |
+| **Chủ đề 1: Family** | (1) Describe family? (Mô tả gia đình?) (2) Best thing? (Điều tuyệt nhất là gì?) (3) Influence on personality? (Ảnh hưởng tính cách thế nào?) |
+| **Chủ đề 2: Childhood** | (1) Childhood idol? (Thần tượng tuổi thơ?) (2) Play alone or with others? (Chơi một mình hay với bạn?) (3) What did you want to be? (Muốn làm nghề gì?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

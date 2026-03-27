@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Who are you closest to in your family?
-- Do you often share your problems with them?
-- How important is your family to you?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Who are you closest to in your family? (Trong gia đình, bạn thân nhất với ai?)
+- Do you often share your problems with them? (Bạn có thường chia sẻ những vấn đề của mình với họ không?)
+- How important is your family to you? (Gia đình quan trọng như thế nào đối với bạn?)
 
-**Now, let's talk about reading newspapers and magazines.**
-- Do you often read newspapers or magazines?
-- Do you prefer reading news online or in print?
-- What section of the newspaper do you usually read?
+**Now, let's talk about reading newspapers and magazines.** (Bây giờ, hãy nói về việc đọc báo và tạp chí.)
+- Do you often read newspapers or magazines? (Bạn có thường đọc báo hoặc tạp chí không?)
+- Do you prefer reading news online or in print? (Bạn thích đọc tin tức trực tuyến hay báo in hơn?)
+- What section of the newspaper do you usually read? (Bạn thường đọc mục nào của tờ báo?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Closest to whom? (2) Share problems with them? (3) How important is family? |
-| **Chủ đề 2: Reading news** | (1) Read newspapers/magazines often? (2) Online vs In print? (3) Which section? |
+| **Chủ đề 1: Family** | (1) Closest to whom? (Thân nhất với ai?) (2) Share problems with them? (Có chia sẻ vấn đề với họ không?) (3) How important is family? (Gia đình quan trọng thế nào?) |
+| **Chủ đề 2: Reading news** | (1) Read newspapers/magazines often? (Có thường đọc báo/tạp chí không?) (2) Online vs In print? (Trực tuyến hay báo in?) (3) Which section? (Đọc mục nào?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

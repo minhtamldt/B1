@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- Do you often buy gifts for other people?
-- What kind of gifts do you usually buy?
-- On what occasions do people in your country give gifts?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- Do you often buy gifts for other people? (Bạn có thường mua quà cho người khác không?)
+- What kind of gifts do you usually buy? (Bạn thường mua loại quà nào?)
+- On what occasions do people in your country give gifts? (Người dân ở nước bạn thường tặng quà vào những dịp nào?)
 
-**Now, let's talk about hobbies and collections.**
-- Have you ever collected anything as a hobby?
-- What are popular things to collect in your country?
-- Do you think collecting objects is a waste of money?
+**Now, let's talk about hobbies and collections.** (Bây giờ, hãy nói về sở thích và sưu tầm.)
+- Have you ever collected anything as a hobby? (Bạn đã từng sưu tầm thứ gì như một sở thích chưa?)
+- What are popular things to collect in your country? (Những thứ phổ biến mà mọi người thường sưu tầm ở nước bạn là gì?)
+- Do you think collecting objects is a waste of money? (Bạn có nghĩ việc sưu tầm đồ vật là lãng phí tiền bạc không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Do you often buy gifts? (2) What kind of gifts? (3) Occasions to give gifts? |
-| **Chủ đề 2: Hobbies & Collections** | (1) Have you ever collected anything? (2) Popular things to collect? (3) Is it a waste of money? |
+| **Chủ đề 1: Giving gifts** | (1) Do you often buy gifts? (Bạn có thường mua quà không?) (2) What kind of gifts? (Loại quà gì?) (3) Occasions to give gifts? (Các dịp tặng quà?) |
+| **Chủ đề 2: Hobbies & Collections** | (1) Have you ever collected anything? (Bạn đã từng sưu tầm gì chưa?) (2) Popular things to collect? (Những thứ phổ biến để sưu tầm?) (3) Is it a waste of money? (Có lãng phí tiền bạc không?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

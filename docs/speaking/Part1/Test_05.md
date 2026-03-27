@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Do you have a large or small family?
-- Who does the housework in your family?
-- Would you like to live with your extended family in the future?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Do you have a large or small family? (Gia đình bạn đông người hay ít người?)
+- Who does the housework in your family? (Ai là người làm việc nhà trong gia đình bạn?)
+- Would you like to live with your extended family in the future? (Bạn có muốn sống cùng đại gia đình trong tương lai không?)
 
-**Now, let's talk about hobbies.**
-- What do you usually do in your free time?
-- Why do you think people need hobbies?
-- Is it important to have hobbies that involve other people?
+**Now, let's talk about hobbies.** (Bây giờ, hãy nói về sở thích.)
+- What do you usually do in your free time? (Bạn thường làm gì vào thời gian rảnh?)
+- Why do you think people need hobbies? (Tại sao bạn nghĩ mọi người cần có sở thích?)
+- Is it important to have hobbies that involve other people? (Có quan trọng khi có những sở thích liên quan đến người khác không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Large or small family? (2) Who does housework? (3) Live with extended family in future? |
-| **Chủ đề 2: Hobbies** | (1) Free time activities? (2) Why need hobbies? (3) Important to have social hobbies? |
+| **Chủ đề 1: Family** | (1) Large or small family? (Gia đình lớn hay nhỏ?) (2) Who does housework? (Ai làm việc nhà?) (3) Live with extended family in future? (Có muốn sống cùng đại gia đình không?) |
+| **Chủ đề 2: Hobbies** | (1) Free time activities? (Làm gì lúc rảnh rỗi?) (2) Why need hobbies? (Tại sao cần sở thích?) (3) Important to have social hobbies? (Có quan trọng khi có sở thích chung không?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

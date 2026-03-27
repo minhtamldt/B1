@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- What is a popular gift to give to a teacher in your country?
-- Do you think giving gifts to colleagues is a good idea?
-- Should children be taught to make gifts themselves?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- What is a popular gift to give to a teacher in your country? (Món quà phổ biến để tặng giáo viên ở nước bạn là gì?)
+- Do you think giving gifts to colleagues is a good idea? (Bạn có nghĩ việc tặng quà cho đồng nghiệp là một ý kiến hay không?)
+- Should children be taught to make gifts themselves? (Trẻ em có nên được dạy tự làm quà tặng không?)
 
-**Now, let's talk about hobbies.**
-- Is it easy for you to find time for your hobbies?
-- Do you share any hobbies with your family members?
-- Why do some people lose interest in their hobbies over time?
+**Now, let's talk about hobbies.** (Bây giờ, hãy nói về sở thích.)
+- Is it easy for you to find time for your hobbies? (Bạn có dễ dàng tìm thấy thời gian cho sở thích của mình không?)
+- Do you share any hobbies with your family members? (Bạn có chia sẻ sở thích nào với các thành viên trong gia đình không?)
+- Why do some people lose interest in their hobbies over time? (Tại sao một số người mất hứng thú với sở thích của họ theo thời gian?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Popular gift for teacher? (2) Gifts to colleagues good idea? (3) Children make themselves? |
-| **Chủ đề 2: Hobbies** | (1) Easy to find time? (2) Share hobbies with family? (3) Lose interest over time? |
+| **Chủ đề 1: Giving gifts** | (1) Popular gift for teacher? (Quà phổ biến cho giáo viên?) (2) Gifts to colleagues good idea? (Tặng quà đồng nghiệp?) (3) Children make themselves? (Trẻ em tự làm quà?) |
+| **Chủ đề 2: Hobbies** | (1) Easy to find time? (Dễ tìm thời gian?) (2) Share hobbies with family? (Chia sẻ sở thích với gia đình?) (3) Lose interest over time? (Mất hứng thú theo thời gian?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

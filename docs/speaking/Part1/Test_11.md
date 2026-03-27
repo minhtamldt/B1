@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about giving gifts.**
-- Do people in your country prefer practical gifts or decorative ones?
-- How do you feel when you receive a surprise gift?
-- Have you ever forgotten to buy a gift for a special occasion?
+**Let's talk about giving gifts.** (Hãy cùng nói về việc tặng quà.)
+- Do people in your country prefer practical gifts or decorative ones? (Người dân ở nước bạn thích quà tặng thiết thực hay quà tặng trang trí hơn?)
+- How do you feel when you receive a surprise gift? (Bạn cảm thấy thế nào khi nhận được một món quà bất ngờ?)
+- Have you ever forgotten to buy a gift for a special occasion? (Bạn đã bao giờ quên mua quà cho một dịp đặc biệt chưa?)
 
-**Now, let's talk about your family.**
-- Do you look more like your mother or your father?
-- Are family gatherings common in your culture?
-- How have your family's expectations affected your career choices?
+**Now, let's talk about your family.** (Bây giờ, hãy nói về gia đình của bạn.)
+- Do you look more like your mother or your father? (Bạn trông giống mẹ hay giống bố hơn?)
+- Are family gatherings common in your culture? (Các buổi họp mặt gia đình có phổ biến trong văn hóa của bạn không?)
+- How have your family's expectations affected your career choices? (Kỳ vọng của gia đình đã ảnh hưởng đến lựa chọn nghề nghiệp của bạn như thế nào?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Giving gifts** | (1) Practical or decorative? (2) Receive surprise gift? (3) Forgot to buy? |
-| **Chủ đề 2: Family** | (1) Look like mother or father? (2) Gatherings common? (3) Expectations affected career? |
+| **Chủ đề 1: Giving gifts** | (1) Practical or decorative? (Thiết thực hay trang trí?) (2) Receive surprise gift? (Nhận quà bất ngờ?) (3) Forgot to buy? (Quên mua quà?) |
+| **Chủ đề 2: Family** | (1) Look like mother or father? (Giống mẹ hay bố?) (2) Gatherings common? (Họp mặt có phổ biến không?) (3) Expectations affected career? (Kỳ vọng ảnh hưởng nghề nghiệp?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

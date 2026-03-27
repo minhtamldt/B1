@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- What was your favorite toy as a child?
-- Did you like going to school when you were young?
-- What is the most valuable lesson you learned in your childhood?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- What was your favorite toy as a child? (Món đồ chơi yêu thích của bạn khi còn nhỏ là gì?)
+- Did you like going to school when you were young? (Khi còn nhỏ, bạn có thích đi học không?)
+- What is the most valuable lesson you learned in your childhood? (Bài học quý giá nhất bạn học được trong tuổi thơ là gì?)
 
-**Now, let's talk about giving gifts.**
-- What kind of gifts do children in your country usually receive?
-- Do you keep all the gifts you receive?
-- Have you ever received a gift that you didn't like?
+**Now, let's talk about giving gifts.** (Bây giờ, hãy nói về việc tặng quà.)
+- What kind of gifts do children in your country usually receive? (Trẻ em ở nước bạn thường nhận được loại quà gì?)
+- Do you keep all the gifts you receive? (Bạn có giữ tất cả những món quà mình nhận được không?)
+- Have you ever received a gift that you didn't like? (Bạn đã từng nhận được một món quà mà bạn không thích chưa?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) Favorite toy? (2) Like going to school? (3) Most valuable lesson learned? |
-| **Chủ đề 2: Giving gifts** | (1) Gifts for children in your country? (2) Keep all gifts? (3) Received a gift you didn't like? |
+| **Chủ đề 1: Childhood** | (1) Favorite toy? (Đồ chơi yêu thích?) (2) Like going to school? (Có thích đi học không?) (3) Most valuable lesson learned? (Bài học giá trị nhất?) |
+| **Chủ đề 2: Giving gifts** | (1) Gifts for children in your country? (Quà cho trẻ em ở nước bạn?) (2) Keep all gifts? (Có giữ hết quà không?) (3) Received a gift you didn't like? (Từng nhận quà không thích chưa?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

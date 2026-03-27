@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- How often do you have a family reunion?
-- Who is the most humorous person in your family?
-- What is the most memorable trip you have taken with your family?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- How often do you have a family reunion? (Bạn thường họp mặt gia đình bao lâu một lần?)
+- Who is the most humorous person in your family? (Ai là người hài hước nhất trong gia đình bạn?)
+- What is the most memorable trip you have taken with your family? (Chuyến đi đáng nhớ nhất mà bạn từng đi cùng gia đình là gì?)
 
-**Now, let's talk about reading newspapers and magazines.**
-- What kind of news are you most interested in?
-- Do people in your country prefer reading news online or watching it on TV?
-- Can we always trust the information in newspapers?
+**Now, let's talk about reading newspapers and magazines.** (Bây giờ, hãy nói về việc đọc báo và tạp chí.)
+- What kind of news are you most interested in? (Loại tin tức nào bạn quan tâm nhất?)
+- Do people in your country prefer reading news online or watching it on TV? (Người dân ở nước bạn thích đọc tin tức trực tuyến hay xem trên TV hơn?)
+- Can we always trust the information in newspapers? (Chúng ta có thể luôn tin tưởng thông tin trên báo chí không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Family reunion frequency? (2) Most humorous person? (3) Memorable trip? |
-| **Chủ đề 2: Newspapers** | (1) Kind of news? (2) Online or TV? (3) Always trust info? |
+| **Chủ đề 1: Family** | (1) Family reunion frequency? (Tần suất họp mặt gia đình?) (2) Most humorous person? (Người hài hước nhất?) (3) Memorable trip? (Chuyến đi đáng nhớ nhất?) |
+| **Chủ đề 2: Newspapers** | (1) Kind of news? (Loại tin tức?) (2) Online or TV? (Trực tuyến hay TV?) (3) Always trust info? (Luôn tin tưởng thông tin?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

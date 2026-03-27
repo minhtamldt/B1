@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Do you live with your family?
-- How much time do you spend with them?
-- What activities do you usually do together?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Do you live with your family? (Bạn có sống cùng gia đình không?)
+- How much time do you spend with them? (Bạn dành bao nhiêu thời gian cho họ?)
+- What activities do you usually do together? (Các bạn thường làm gì cùng nhau?)
 
-**Now, let's talk about your childhood.**
-- Did you have a happy childhood? 
-- What is your fondest childhood memory? 
-- Who was your best friend when you were a child?
+**Now, let's talk about your childhood.** (Bây giờ, hãy nói về tuổi thơ của bạn.)
+- Did you have a happy childhood? (Bạn có một tuổi thơ hạnh phúc không?)
+- What is your fondest childhood memory? (Kỷ niệm tuổi thơ đáng nhớ nhất của bạn là gì?)
+- Who was your best friend when you were a child? (Ai là người bạn thân nhất của bạn khi bạn còn nhỏ?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Do you live with your family? (2) How much time do you spend with them? (3) What activities do you usually do together? |
-| **Chủ đề 2: Childhood** | (1) Did you have a happy childhood? (2) What is your fondest childhood memory? (3) Who was your best friend when you were a child? |
+| **Chủ đề 1: Family** | (1) Do you live with your family? (Bạn có sống cùng gia đình không?) (2) How much time do you spend with them? (Bạn dành bao nhiêu thời gian cho họ?) (3) What activities do you usually do together? (Các bạn thường làm gì cùng nhau?) |
+| **Chủ đề 2: Childhood** | (1) Did you have a happy childhood? (Bạn có một tuổi thơ hạnh phúc không?) (2) What is your fondest childhood memory? (Kỷ niệm tuổi thơ đáng nhớ nhất của bạn là gì?) (3) Who was your best friend when you were a child? (Ai là người bạn thân nhất của bạn khi bạn còn nhỏ?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

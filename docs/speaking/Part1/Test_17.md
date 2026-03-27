@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- What kind of stories did you like listening to when you were a child?
-- Did you often watch cartoons?
-- What is a childhood skill that you still use today?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- What kind of stories did you like listening to when you were a child? (Loại câu chuyện nào bạn thích nghe khi còn nhỏ?)
+- Did you often watch cartoons? (Bạn có thường xem phim hoạt hình không?)
+- What is a childhood skill that you still use today? (Kỹ năng thời thơ ấu nào bạn vẫn sử dụng đến ngày nay?)
 
-**Now, let's talk about hobbies and collections.**
-- Would you like to collect art or antiques?
-- How do people organize their collections?
-- Can collecting things be a profitable hobby?
+**Now, let's talk about hobbies and collections.** (Bây giờ, hãy nói về sở thích và sưu tầm.)
+- Would you like to collect art or antiques? (Bạn có muốn sưu tầm nghệ thuật hay đồ cổ không?)
+- How do people organize their collections? (Mọi người sắp xếp các bộ sưu tập của họ như thế nào?)
+- Can collecting things be a profitable hobby? (Việc sưu tầm đồ vật có thể là một sở thích sinh lời không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) Stories liked listening to? (2) Watch cartoons? (3) Childhood skill still use today? |
-| **Chủ đề 2: Collections** | (1) Collect art or antiques? (2) Organize collections? (3) Profitable hobby? |
+| **Chủ đề 1: Childhood** | (1) Stories liked listening to? (Thích nghe truyện gì?) (2) Watch cartoons? (Có xem hoạt hình?) (3) Childhood skill still use today? (Kỹ năng tuổi thơ vẫn dùng?) |
+| **Chủ đề 2: Collections** | (1) Collect art or antiques? (Muốn sưu tầm nghệ thuật/đồ cổ?) (2) Organize collections? (Sắp xếp bộ sưu tập?) (3) Profitable hobby? (Sở thích sinh lời?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

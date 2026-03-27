@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your family.**
-- Do you prefer spending time with family or friends?
-- What do you usually talk about with your family members?
-- Do you and your family members often argue?
+**Let's talk about your family.** (Hãy cùng nói về gia đình của bạn.)
+- Do you prefer spending time with family or friends? (Bạn thích dành thời gian cho gia đình hay bạn bè hơn?)
+- What do you usually talk about with your family members? (Bạn thường nói chuyện gì với các thành viên trong gia đình?)
+- Do you and your family members often argue? (Bạn và các thành viên trong gia đình có thường xuyên tranh cãi không?)
 
-**Now, let's talk about reading.**
-- Do you enjoy reading books in your free time?
-- What kind of books or magazines do you like to read?
-- Do you think children today read enough?
+**Now, let's talk about reading.** (Bây giờ, hãy nói về việc đọc sách.)
+- Do you enjoy reading books in your free time? (Bạn có thích đọc sách vào thời gian rảnh không?)
+- What kind of books or magazines do you like to read? (Bạn thích đọc loại sách hay tạp chí nào?)
+- Do you think children today read enough? (Bạn có nghĩ trẻ em ngày nay đọc đủ nhiều không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Family** | (1) Prefer family or friends? (2) What do you talk about? (3) Argue often? |
-| **Chủ đề 2: Reading** | (1) Read books in free time? (2) What kind? (3) Children read enough? |
+| **Chủ đề 1: Family** | (1) Prefer family or friends? (Thích gia đình hay bạn bè?) (2) What do you talk about? (Thường nói về chuyện gì?) (3) Argue often? (Có hay tranh cãi không?) |
+| **Chủ đề 2: Reading** | (1) Read books in free time? (Có đọc sách lúc rảnh không?) (2) What kind? (Loại sách gì?) (3) Children read enough? (Trẻ em đọc đủ chưa?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 

@@ -7,15 +7,15 @@
 
 ## 📄 Câu hỏi Giao tiếp xã hội
 
-**Let's talk about your childhood.**
-- Where did you grow up?
-- What did you enjoy doing most in your childhood?
-- Do you miss your childhood days?
+**Let's talk about your childhood.** (Hãy cùng nói về tuổi thơ của bạn.)
+- Where did you grow up? (Bạn lớn lên ở đâu?)
+- What did you enjoy doing most in your childhood? (Bạn thích làm gì nhất khi còn nhỏ?)
+- Do you miss your childhood days? (Bạn có nhớ những ngày thơ ấu của mình không?)
 
-**Now, let's talk about giving gifts.**
-- Do you prefer giving or receiving gifts?
-- What was the best gift you have ever received?
-- Do you think the price of a gift is important?
+**Now, let's talk about giving gifts.** (Bây giờ, hãy nói về việc tặng quà.)
+- Do you prefer giving or receiving gifts? (Bạn thích tặng hay nhận quà hơn?)
+- What was the best gift you have ever received? (Món quà tuyệt vời nhất bạn từng nhận được là gì?)
+- Do you think the price of a gift is important? (Bạn có nghĩ giá cả của một món quà là quan trọng không?)
 
 ---
 
@@ -23,8 +23,8 @@
 
 | Chủ đề | Câu hỏi |
 |---|---|
-| **Chủ đề 1: Childhood** | (1) Where did you grow up? (2) Enjoyed doing most? (3) Miss your childhood? |
-| **Chủ đề 2: Giving gifts** | (1) Prefer giving or receiving? (2) Best gift received? (3) Is price important? |
+| **Chủ đề 1: Childhood** | (1) Where did you grow up? (Lớn lên ở đâu?) (2) Enjoyed doing most? (Thích làm gì nhất?) (3) Miss your childhood? (Có nhớ tuổi thơ không?) |
+| **Chủ đề 2: Giving gifts** | (1) Prefer giving or receiving? (Thích tặng hay nhận quà hơn?) (2) Best gift received? (Món quà tốt nhất từng nhận?) (3) Is price important? (Giá cả có quan trọng không?) |
 
 ## 🧠 Bước 2: Lên chiến lược trả lời
 
